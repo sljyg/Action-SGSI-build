@@ -18,7 +18,6 @@ Music
 QuickSearchBox
 talkback
 SogouInput
-
 "
 
 for delete_dir in $apps_dir ;do
